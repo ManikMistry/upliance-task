@@ -1,0 +1,23 @@
+.counter-container {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .animated-div {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+  }
+  p{
+    color: white;
+    position: relative;
+    bottom: 42px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .counter-container button{
+    width: 100px;
+    margin-right: 10px;
+}
